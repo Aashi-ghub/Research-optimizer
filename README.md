@@ -7,7 +7,7 @@ A collection of production-ready applications built with LangChain, demonstratin
 This repository contains three enterprise-grade applications showcasing different LLM integration patterns:
 
 1. **RockyBot: News Research Tool** - Intelligent document retrieval and Q&A system
-2. **E-Learning Q&A Assistant** - FAQ system with semantic search capabilities
+2. **E-Learning Q&A Assistant** - FAQ system with semantic search capabilities  
 3. **AtliQ Tees: Business Intelligence Interface** - Natural language to SQL query system
 
 ## 📚 Projects
@@ -33,7 +33,7 @@ An intelligent news research assistant that enables users to:
 ---
 
 ### 2. E-Learning Q&A Assistant
-**Location:** `3_project_codebasics_q_and_a/`
+**Location:** `3_elearning_qa_system/`
 
 A production-ready FAQ assistant system that:
 - Processes large-scale FAQ datasets
@@ -121,7 +121,7 @@ Research-optimizer/
 │   ├── main.py
 │   ├── notebooks/
 │   └── requirements.txt
-├── 3_project_codebasics_q_and_a/
+├── 3_elearning_qa_system/
 │   ├── main.py
 │   ├── langchain_helper.py
 │   └── requirements.txt
